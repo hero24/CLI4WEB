@@ -1,0 +1,42 @@
+body{
+	background: black;
+}
+#consoleIn{
+	border: none;
+	background: black;
+	color: greenyellow;
+	outline: none;
+    width: 99%;
+}
+#consoleIn:active{
+	border: none;
+	outline: none;
+}
+#consoleIn:focus{
+	border: none;
+	outline: none;
+}
+#consoleOut{
+	color: greenyellow;
+}
+#prompt{
+	color: greenyellow;
+}
+.pastOutput{
+	color: #FF9200;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+#loginBox{
+	text-align: center;
+	vertical-align: middle;
+}
+/*
+http://www.color-hex.com/color-palette/24517
+http://www.color-hex.com/color-palette/24516
+http://www.color-hex.com/color-palette/24519
+http://www.color-hex.com/color-palette/24437
+http://www.color-hex.com/color-palette/24433
+*/

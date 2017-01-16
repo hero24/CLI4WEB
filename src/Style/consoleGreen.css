@@ -1,0 +1,23 @@
+body{
+	background: black;
+}
+#consoleIn{
+	border: none;
+	background: black;
+	color: greenyellow;
+	outline: none;
+}
+#consoleIn:active{
+	border: none;
+	outline: none;
+}
+#consoleIn:focus{
+	border: none;
+	outline: none;
+}
+#consoleOut{
+	color: greenyellow;
+}
+#prompt{
+	color: greenyellow;
+}
